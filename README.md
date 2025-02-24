@@ -18,12 +18,13 @@
 
 <p align="center">
  <a href="https://linkedin.com/in/md-tanvir-ahmed-1a39a21a3/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="way2tushar"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tanvirfiji"/>
  </a>
  <a href="https://tanvirfiji.itch.io/" target="_blank">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Itch.io&color=FA5C5C&logo=Itch.io&logoColor=FFFFFF&label=" alt="way2tushar" />
- <a href="[https://facebook.com/way2tushar](https://www.facebook.com/tanvirfiji)" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="way2tushar"  />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Itch.io&color=FA5C5C&logo=Itch.io&logoColor=FFFFFF&label=" alt="tanvirfiji" />
+ </a> 
+<a href="https://facebook.com/tanvirfiji" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="tanvirfiji"  />
   </a> 
 </p>
 <br />
@@ -37,6 +38,7 @@
  
  ✌️ &emsp; Enjoy to do programming and learning new technology<br/><br/>
  ❤️ &emsp; Love to create and play video games<br/><br/>
+ 📧 &emsp; Reach me anytime: tanvirfiji@gmail.com<br/><br/>
 
 </p>
 
