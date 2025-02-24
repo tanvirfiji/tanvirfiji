@@ -38,7 +38,7 @@
  
  ✌️ &emsp; Enjoy to do programming and learning new technology<br/><br/>
  ❤️ &emsp; Love to create and play video games<br/><br/>
- 📧 &emsp; Reach me anytime: tanvirfiji@gmail.com<br/><br/>
+
 
 </p>
 
